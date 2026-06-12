@@ -1,0 +1,5 @@
+l=list(map(int,input("Enter the elements: ").split()))
+print("By using slicing: ",l[::-1])
+print("By using reverse function: ",end="")
+l.reverse()
+print(l)
