@@ -1,0 +1,12 @@
+def add(x,y):
+    return x+y
+def sub(x,y):
+    return x-y
+def multiply(x,y):
+    return x*y
+def moddiv(x,y):
+    return x/y
+def intdiv(x,y):
+    return x//y
+def floatdiv(x,y):
+    return x/y
