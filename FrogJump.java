@@ -16,3 +16,6 @@ public class FrogJump {
         System.out.println(dp[n - 1]);
     }
 }
+
+
+
