@@ -22,3 +22,6 @@ public class KFrogump {
         System.out.println(dp[n - 1]);
     }
 }
+
+
+
