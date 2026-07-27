@@ -1,10 +1,5 @@
 public class 1 {
     
-
-
-
-
-    
 }
 
 
