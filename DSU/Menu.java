@@ -15,6 +15,12 @@ class DSU_Menu {
             parent[i]=i;
         }
     }
+
+
+
+
+
+    
     int find(int i){
         if (parent[i]==i){
             return i;
