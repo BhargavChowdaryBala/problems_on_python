@@ -31,10 +31,8 @@ public class DesignProducts {
 
         Scanner sc = new Scanner(System.in);
 
-        // Category -> List of Products
         HashMap<String, List<Product>> hm = new HashMap<>();
 
-        // Laptops Category
         List<Product> laptops = new ArrayList<>();
 
         laptops.add(new Product(108, 300000, "HP"));
@@ -42,7 +40,6 @@ public class DesignProducts {
         laptops.add(new Product(102, 50000, "Lenovo"));
         laptops.add(new Product(105, 75000, "Dell"));
         hm.put("Laptops", laptops);
-        // Air Conditioner Category
         List<Product> airConditioners = new ArrayList<>();
         airConditioners.add(new Product(103, 90000, "Whirlpool"));
         airConditioners.add(new Product(104, 100000, "LG"));
