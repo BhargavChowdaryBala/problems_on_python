@@ -5,10 +5,6 @@ import java.util.Scanner;
 
 class Student {
 
-
-
-    
-
     int rollNumber;
     String name;
     int marks;
