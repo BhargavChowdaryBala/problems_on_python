@@ -3,6 +3,10 @@ public class ConsecutiveIntegers {
         String s="abcd123efgh456";
         int sum=0;
         int c=0;
+
+
+
+        
         for(int i=0;i<s.length();i++)
         {
             char ch=s.charAt(i);
