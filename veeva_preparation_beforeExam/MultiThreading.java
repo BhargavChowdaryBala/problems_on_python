@@ -3,7 +3,7 @@
  */
 class Counter{
     int n;
-    public void inc()
+    public synchronized void inc()
     {
         n++;
     }
