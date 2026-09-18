@@ -5,9 +5,6 @@ public class DistenceOfTwoClosestNumbers {
         System.out.println("Enter n");
         int n=sc.nextInt();
 
-
-
-        
         System.out.println("Enter elments");
         int arr[]=new int[n];
         for(int i=0;i<n;i++)
