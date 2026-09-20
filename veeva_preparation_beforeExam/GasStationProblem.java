@@ -13,6 +13,11 @@ class Solution {
             curramount=0;
         }
        }
+
+
+
+
+       
        if(totalcost>totalgas) return -1;
        return start;
 
