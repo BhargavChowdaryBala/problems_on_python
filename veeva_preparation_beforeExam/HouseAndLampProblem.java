@@ -24,6 +24,12 @@ public class HouseAndLampProblem {
 
 
 
+
+
+
+
+
+        
         
         for(int i=0;i<h.length;i++)
         {
