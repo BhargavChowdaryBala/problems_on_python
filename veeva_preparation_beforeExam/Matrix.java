@@ -6,6 +6,10 @@ public class Matrix {
             {6, 8, 1}
         }; 
 
+
+
+
+        
         int max=Integer.MIN_VALUE;
         int sum=0;
         for(int i=1;i<arr.length;i++)
