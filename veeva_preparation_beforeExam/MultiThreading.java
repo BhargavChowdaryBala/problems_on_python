@@ -6,6 +6,10 @@ class Counter{
     public synchronized void inc()
     {
         n++;
+
+
+
+        
     }
 }
 public class MultiThreading  {
