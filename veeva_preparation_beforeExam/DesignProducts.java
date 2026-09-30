@@ -17,11 +17,6 @@ class Product {
         return price;
     }
 
-
-
-
-
-
     
     @Override
     public String toString() {
