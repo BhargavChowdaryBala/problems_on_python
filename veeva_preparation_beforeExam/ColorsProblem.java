@@ -1,11 +1,5 @@
 import java.util.*;
 public class ColorsProblem {
-
-
-
-
-
-
     
     public static void main(String[] args) {
         String s="red,blue   ,yellow,green123,#12red,green,red";
