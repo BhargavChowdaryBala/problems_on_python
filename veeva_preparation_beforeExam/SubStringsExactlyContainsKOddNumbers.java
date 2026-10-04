@@ -35,6 +35,10 @@ class SubStringExactlyContainsKOddNumbers
             }
             count += i-l+1;
         }
+
+
+
+        
         return count;
     }
 }
