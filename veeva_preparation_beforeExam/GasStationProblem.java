@@ -14,10 +14,6 @@ class Solution {
         }
        }
 
-
-
-
-       
        
        if(totalcost>totalgas) return -1;
        return start;
