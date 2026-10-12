@@ -20,16 +20,6 @@ public class HouseAndLampProblem {
         }
         int max1=Integer.MIN_VALUE;
 
-
-
-
-
-
-
-
-
-
-        
         
         for(int i=0;i<h.length;i++)
         {
