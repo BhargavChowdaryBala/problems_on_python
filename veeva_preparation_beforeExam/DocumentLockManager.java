@@ -21,6 +21,11 @@ class Document {
     }
 }
 
+
+
+
+
+
 public class DocumentLockManager {
     HashMap<String, User> document = new HashMap<>();
 
