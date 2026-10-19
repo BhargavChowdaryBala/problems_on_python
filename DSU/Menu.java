@@ -14,10 +14,6 @@ class DSU_Menu {
         for (int i = 0; i<n;i++){
             parent[i]=i;
         }
-
-
-
-    
     int find(int i){
         if (parent[i]==i){
             return i;
