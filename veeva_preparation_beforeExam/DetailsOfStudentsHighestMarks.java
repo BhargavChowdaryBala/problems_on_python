@@ -9,10 +9,6 @@ class Student {
     int marks;
     double cgpa;
 
-
-
-    
-
     Student(int rollNumber, String name, int marks, double cgpa) {
         this.rollNumber = rollNumber;
         this.name = name;
