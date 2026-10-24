@@ -11,6 +11,10 @@ public class DistenceOfTwoClosestNumbers {
         {
             arr[i]=sc.nextInt();
         }
+
+
+
+
         Arrays.sort(arr);
         int min=Integer.MAX_VALUE;
         for(int i=1;i<arr.length;i++)
