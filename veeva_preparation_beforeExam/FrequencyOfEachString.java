@@ -10,10 +10,6 @@ public class FrequencyOfEachString {
         {
             hm.put(x,hm.getOrDefault(x, 0)+1);
         }
-
-
-        
-
         for(String x:hm.keySet())
         {
             System.out.println( x + ":"+ hm.get(x));
