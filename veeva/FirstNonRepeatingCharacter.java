@@ -13,6 +13,8 @@ public class FirstNonRepeatingCharacter {
             char ch=s.charAt(i);
             hm.put(ch,hm.getOrDefault(ch,0)+1);
         }
+
+        
         boolean temp=false;
         for(int i=0;i<n;i++)
         {
