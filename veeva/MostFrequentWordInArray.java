@@ -12,6 +12,9 @@ public class MostFrequentWordInArray {
         {
             hm.put(x,hm.getOrDefault(x,0)+1);
         }
+
+
+        
         String res="";
         int max=Integer.MIN_VALUE;
         for(int i=n-1;i>=0;i--)
