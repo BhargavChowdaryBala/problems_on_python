@@ -19,6 +19,8 @@ public class SubSequenceInAnotherWay {
         {
             sub[i]=sc.nextInt();
         }
+
+        
         boolean temp=false;
         int j=0;
         for(int i=0;i<n;i++)
