@@ -16,6 +16,8 @@ class Solution {
             k--;
         }
 
+        
+
         StringBuilder sb=new StringBuilder();
         while(!st.isEmpty())
         {
