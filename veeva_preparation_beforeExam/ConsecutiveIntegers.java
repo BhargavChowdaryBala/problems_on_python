@@ -15,6 +15,9 @@ public class ConsecutiveIntegers {
                     i++;
                     
                 }
+
+
+                
                 sum +=Integer.valueOf(sb.toString());
                 c++;
             }
