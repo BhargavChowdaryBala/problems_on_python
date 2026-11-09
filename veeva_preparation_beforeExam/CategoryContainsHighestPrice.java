@@ -18,8 +18,6 @@ class Product {
     }
 
 
-     
-
     @Override
     public String toString() {
         return "Product Code = " + p_code +
