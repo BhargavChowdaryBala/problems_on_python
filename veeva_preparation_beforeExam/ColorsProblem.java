@@ -11,6 +11,10 @@ public class ColorsProblem {
             ch=ch.strip();
             hm.put(ch,hm.getOrDefault(ch, 0)+1);
         }
+
+
+
+        
         for(String ch:hm.keySet())
         {
             System.out.println(ch + ":"+hm.get(ch));
