@@ -12,8 +12,6 @@ public class ColorsProblem {
             hm.put(ch,hm.getOrDefault(ch, 0)+1);
         }
 
-
-
         
         for(String ch:hm.keySet())
         {
