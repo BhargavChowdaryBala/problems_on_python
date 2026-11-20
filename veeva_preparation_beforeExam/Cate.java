@@ -5,6 +5,10 @@ import java.util.Scanner;
 
 class Product {
 
+
+
+
+     
      int p_code;
      int price;
      String company;
