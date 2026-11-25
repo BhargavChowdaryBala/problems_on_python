@@ -17,10 +17,6 @@ public class SubArrrayWithSumK {
         if(s==k)c++;
         i++;
         
-
-
-
-
         
     }
     System.out.println(c);
