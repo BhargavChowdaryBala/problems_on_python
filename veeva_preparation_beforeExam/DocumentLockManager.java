@@ -20,12 +20,6 @@ class Document {
         this.doc_id = doc_id;
     }
 }
-
-
-
-
-
-
 public class DocumentLockManager {
     HashMap<String, User> document = new HashMap<>();
 
