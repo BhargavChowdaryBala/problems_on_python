@@ -5,11 +5,7 @@ class Counter{
     int n;
     public synchronized void inc()
     {
-        n++;
-
-
-
-        
+        n++;        
     }
 }
 public class MultiThreading  {
